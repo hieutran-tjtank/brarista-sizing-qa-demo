@@ -1,0 +1,9 @@
+{
+  "_comment": "Cup sequences ordered by volume index (0=smallest, 9=largest). Same index = same cup volume across systems.",
+  "US":  ["A", "B", "C", "D", "DD",  "DDD", "G",  "H",  "I",  "J"],
+  "UK":  ["A", "B", "C", "D", "DD",  "E",   "F",  "FF", "G",  "GG"],
+  "EU":  ["A", "B", "C", "D", "E",   "F",   "G",  "H",  "I",  "J"],
+  "FR":  ["A", "B", "C", "D", "E",   "F",   "G",  "H",  "I",  "J"],
+  "AU":  ["A", "B", "C", "D", "DD",  "E",   "F",  "FF", "G",  "GG"],
+  "JP":  ["A", "B", "C", "D", "E",   "F",   "G",  "H",  "I",  "J"]
+}
